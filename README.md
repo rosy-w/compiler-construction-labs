@@ -31,8 +31,8 @@ Thereafter, develop a simple lexer by developing your own Flex input file.
 1. Using an example or illustration, explain what is predictive parsing?
 2. As an extension to question 1,
 
-  a. What is LL (1) parsing?
+      a. What is LL (1) parsing?
 
-  b. Why do we get the First () and Follow () i.e. what do these two    functions really represent?
+      b. Why do we get the First () and Follow () i.e. what do these two    functions really represent?
 
 3. Are there any unique attributes associated with Top-Down parsing? 
